@@ -1,4 +1,4 @@
-//// Fundamental Topics
+//// Fundamentals
 // Values & Variables
 // Data Types
 // Let, Const & Var (to be discussed further in functions)
@@ -25,3 +25,18 @@
 // Object Operations
 // This (this is equals to object calling the method)
 // Loops (for, while, do while)
+
+//// IDE Setup
+// Prettier (workspace settings)
+// User Snippets (log snippets)
+// Todo Highlight Extension
+// Live Server
+
+//// Developer Skills
+// Problem Solving
+// Understand Problem
+// Divide & Conquer
+// Research
+// Pseudo Code
+// Google, StackOverflow, MDN
+// Debugging
